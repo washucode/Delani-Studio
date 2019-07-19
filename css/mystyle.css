@@ -79,3 +79,12 @@ overflow-x: hidden;
   padding-top: 3%;
   padding-bottom: 3%;
 }
+
+#designp,#devp, #productp{
+  display: none;
+  text-align: center;
+}
+
+#designp h1,#devp h1, #productp h1{
+  font-weight: bold;
+}
