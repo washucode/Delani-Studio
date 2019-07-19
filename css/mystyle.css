@@ -25,3 +25,9 @@ overflow-x: hidden;
   font-size: 40px;
   /* padding-top: 10%; */
 }
+
+.jumbotron p{
+ text-transform: uppercase;
+ text-align: center;
+ margin-top: -1%;
+}
