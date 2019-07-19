@@ -43,3 +43,10 @@ overflow-x: hidden;
   padding-top: 8%;
   padding-bottom:2%;
 }
+
+/* about */
+
+.about{
+  color:black;
+  text-align: center;
+}
