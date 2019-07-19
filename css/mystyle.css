@@ -31,3 +31,9 @@ overflow-x: hidden;
  text-align: center;
  margin-top: -1%;
 }
+
+.jumbotron #logo{
+  width:6%;
+  margin-top: 18%;
+  margin-left: 47%;
+}
