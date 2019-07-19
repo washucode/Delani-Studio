@@ -8,3 +8,13 @@ overflow-x: hidden;
 .container-full h1,h2,h3,h4{
   text-transform: none;
 }
+
+.jumbotron{
+  background-image: url("../assets/backgrounds/h_img.jpg");
+  width:100vw;
+  height :100%;
+  background-size: cover;
+  color: white;
+  font-family: inherit;
+
+}
