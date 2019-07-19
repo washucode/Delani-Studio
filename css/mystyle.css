@@ -50,3 +50,11 @@ overflow-x: hidden;
   color:black;
   text-align: center;
 }
+
+/* service */
+
+.services{
+  background-image: url("../assets/backgrounds/s_image.jpg");
+  text-align: center;
+  color: white;
+}
