@@ -18,3 +18,10 @@ overflow-x: hidden;
   font-family: inherit;
 
 }
+.jumbotron h1{
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 4px;
+  font-size: 40px;
+  /* padding-top: 10%; */
+}
