@@ -3,7 +3,8 @@ $(document).ready( function(){
   whatwedo.forEach(function(x){
     $("#"+x+", #"+x+"p").click(function(){
       $("#"+x+", #"+x+"p").toggle();
-  })
+  });
 
-  })
+
+
 })

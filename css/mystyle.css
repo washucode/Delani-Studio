@@ -62,6 +62,8 @@ overflow-x: hidden;
 .services h1{
   padding-top: 10%;
 }
+
+
 #servicesp
 {
   padding-bottom: 10%;
@@ -88,3 +90,4 @@ overflow-x: hidden;
 #designp h1,#devp h1, #productp h1{
   font-weight: bold;
 }
+/* portfolio */
