@@ -97,3 +97,8 @@ overflow-x: hidden;
   padding-bottom: 3%;
   padding-top:3%;
 }
+
+.portfolio img{
+width:100%;
+height: auto;
+}
