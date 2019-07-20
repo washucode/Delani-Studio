@@ -145,3 +145,10 @@ img.w-100 {
   width:100%;
   background-image: url("../assets/backgrounds/c_image.jpg");
 }
+
+.contactus h1{
+  color:white;
+  text-align:center;
+  padding-top: 5%;
+  padding-bottom: 3%;
+}
