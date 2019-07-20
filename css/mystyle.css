@@ -102,3 +102,14 @@ overflow-x: hidden;
 width:100%;
 height: auto;
 }
+
+.imgoverlay1,.imgoverlay2, .imgoverlay3,.imgoverlay4,.imgoverlay5,.imgoverlay6,.imgoverlay7,.imgoverlay8{
+  width:90%;
+    color:white;
+    height:97%;
+    position: absolute;
+    top:0;
+     background-color: rgba(0, 0, 0, 0.5);
+    display:none;
+
+}
