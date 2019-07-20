@@ -130,3 +130,11 @@ img.w-100 {
  position: relative;
  border: 5px solid white;
 }
+
+.imgoverlay1 h1,.imgoverlay2 h1,.imgoverlay3 h1,.imgoverlay4 h1,.imgoverlay5 h1,.imgoverlay6 h1,.imgoverlay7 h1,.imgoverlay8 h1{
+    padding-top: 3%;
+    text-align: left;
+    font-weight: 800px;
+    font-size: 30px
+
+}
