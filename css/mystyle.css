@@ -90,6 +90,7 @@ overflow-x: hidden;
 #designp h1,#devp h1, #productp h1{
   font-weight: bold;
 }
+
 /* portfolio */
 
 .portfolio h1{
@@ -138,3 +139,5 @@ img.w-100 {
     font-size: 30px
 
 }
+
+/* contacts us */
