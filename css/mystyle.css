@@ -91,3 +91,9 @@ overflow-x: hidden;
   font-weight: bold;
 }
 /* portfolio */
+
+.portfolio h1{
+  text-align: center;
+  padding-bottom: 3%;
+  padding-top:3%;
+}
