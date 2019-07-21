@@ -17,4 +17,13 @@ $(document).ready( function(){
      })
    })
 
+  $("#contactus").submit(function() {
+    var nameInput = $("input#name").val();
+
+    var emailInput = $("input#email").val();
+    var messageInput = $("textarea#message").val();
+
+    alert(nameInput + " we have received your message. Thank you for reaching out to us.");
+
+  })
 })
